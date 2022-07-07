@@ -1,11 +1,11 @@
-Cursos Alura
+# Cursos Alura
 
- - Gestão ágil
-
-
-  - Power Bi
+ ### Gestão ágil
 
 
-* Python - Em espera
+ ### Power Bi
 
-* SQLServer - Em espera
+
+##### Python - Em espera
+
+##### SQLServer - Em espera
